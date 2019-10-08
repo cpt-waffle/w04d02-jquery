@@ -1,0 +1,17 @@
+body {
+
+}
+
+
+.profile {
+	background-color: #427f9c;
+	width: 30%;
+	text-align: center;
+}
+
+.profile-pic {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	object-fit: cover;
+}
